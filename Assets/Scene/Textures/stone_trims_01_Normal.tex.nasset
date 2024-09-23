@@ -1,0 +1,151 @@
+{
+    "guid": "44a44b37-760a-543c-a504-8e7626b5ec1d",
+    "source": "../../Source/textures/stone_trims_01_Normal.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        4096.0,
+        4096.0
+    ],
+    "preset": 3,
+    "usage_flags": 6,
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 67108864
+            },
+            {
+                "level": 1,
+                "offset": 67108864,
+                "size": 16777216
+            },
+            {
+                "level": 2,
+                "offset": 83886080,
+                "size": 4194304
+            },
+            {
+                "level": 3,
+                "offset": 88080384,
+                "size": 1048576
+            },
+            {
+                "level": 4,
+                "offset": 89128960,
+                "size": 262144
+            },
+            {
+                "level": 5,
+                "offset": 89391104,
+                "size": 65536
+            },
+            {
+                "level": 6,
+                "offset": 89456640,
+                "size": 16384
+            },
+            {
+                "level": 7,
+                "offset": 89473024,
+                "size": 4096
+            },
+            {
+                "level": 8,
+                "offset": 89477120,
+                "size": 1024
+            },
+            {
+                "level": 9,
+                "offset": 89478144,
+                "size": 256
+            },
+            {
+                "level": 10,
+                "offset": 89478400,
+                "size": 64
+            },
+            {
+                "level": 11,
+                "offset": 89478464,
+                "size": 16
+            },
+            {
+                "level": 12,
+                "offset": 89478480,
+                "size": 4
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 4194304
+            },
+            {
+                "level": 1,
+                "offset": 4194304,
+                "size": 1048576
+            },
+            {
+                "level": 2,
+                "offset": 5242880,
+                "size": 262144
+            },
+            {
+                "level": 3,
+                "offset": 5505024,
+                "size": 65536
+            },
+            {
+                "level": 4,
+                "offset": 5570560,
+                "size": 16384
+            },
+            {
+                "level": 5,
+                "offset": 5586944,
+                "size": 4096
+            },
+            {
+                "level": 6,
+                "offset": 5591040,
+                "size": 1024
+            },
+            {
+                "level": 7,
+                "offset": 5592064,
+                "size": 256
+            },
+            {
+                "level": 8,
+                "offset": 5592320,
+                "size": 64
+            },
+            {
+                "level": 9,
+                "offset": 5592384,
+                "size": 16
+            },
+            {
+                "level": 10,
+                "offset": 5592400,
+                "size": 16
+            },
+            {
+                "level": 11,
+                "offset": 5592416,
+                "size": 16
+            },
+            {
+                "level": 12,
+                "offset": 5592432,
+                "size": 16
+            }
+        ]
+    }
+}
